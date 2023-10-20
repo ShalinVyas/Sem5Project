@@ -1,0 +1,48 @@
+
+Image Name:   System Idle Process
+PID:          0
+Session Name: Services
+Session#:     0
+Mem Usage:    8 K
+
+Image Name:   System
+PID:          4
+Session Name: Services
+Session#:     0
+Mem Usage:    4,024 K
+
+Image Name:   dwm.exe
+PID:          1348
+Session Name: Console
+Session#:     1
+Mem Usage:    1,09,736 K
+
+Image Name:   MsMpEng.exe
+PID:          5032
+Session Name: Services
+Session#:     0
+Mem Usage:    3,10,024 K
+
+Image Name:   explorer.exe
+PID:          7576
+Session Name: Console
+Session#:     1
+Mem Usage:    2,75,268 K
+
+Image Name:   EpicGamesLauncher.exe
+PID:          13520
+Session Name: Console
+Session#:     1
+Mem Usage:    1,13,084 K
+
+Image Name:   chrome.exe
+PID:          7348
+Session Name: Console
+Session#:     1
+Mem Usage:    2,53,332 K
+
+Image Name:   Discord.exe
+PID:          18004
+Session Name: Console
+Session#:     1
+Mem Usage:    2,81,876 K

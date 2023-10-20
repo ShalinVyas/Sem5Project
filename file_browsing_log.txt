@@ -1,0 +1,30 @@
+File Browsing Log
+==============================
+Action: modified
+File: C:/Users/91997/Documents/B. Tech/5th sem\Seminar_OS.pptx
+Time: 2023-10-18 16:02:11
+==============================
+Action: modified
+File: C:/Users/91997/Documents/B. Tech/5th sem\DAA\merged.docx
+Time: 2023-10-18 16:02:11
+==============================
+Action: modified
+File: C:/Users/91997/Documents/B. Tech/5th sem\LogAnalyzer.exe
+Time: 2023-10-18 16:02:26
+==============================
+Action: modified
+File: C:/Users/91997/Documents/B. Tech/5th sem\LogAnalyzer.zip
+Time: 2023-10-18 16:02:27
+==============================
+Action: modified
+File: C:/Users/91997/Documents/B. Tech/5th sem\logs.xml
+Time: 2023-10-18 16:02:27
+==============================
+Action: deleted
+File: C:/Users/91997/Documents/B. Tech/5th sem\logs.csv
+Time: 2023-10-18 16:02:33
+==============================
+Action: deleted
+File: C:/Users/91997/Documents/B. Tech/5th sem\log2.csv
+Time: 2023-10-18 16:02:35
+==============================
